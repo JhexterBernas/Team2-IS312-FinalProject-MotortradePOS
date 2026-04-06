@@ -29,3 +29,8 @@ One at a time
 4.python manage.py shell -c "from MotortradeSystem.models import Transaction, TransactionItem; TransactionItem.objects.all().delete(); Transaction.objects.all().delete()"
 
 This command is IF you want to delete/refresh the transactrion History ONLY!, DON'T command this if you are okay with the existing history.
+
+# Credentials of MotortradePOS
+
+Username: CTDN-Jherico
+Password: Pandi3014
