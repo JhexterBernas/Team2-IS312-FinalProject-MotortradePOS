@@ -1,5 +1,7 @@
 # How to Access the MotortradePOS
 
+Before Accessing this you must have PYTHON Interpreter in your computer, If you dont have it Download here https://www.python.org/
+
 1. Download the Zip File "Team2-IS312-FinalProject-MotortradePOS" above.
 2. After Downloading, Go-to-File Manager in your computer and find the downloaded file.
 3. Right click the file then "Extract All".
