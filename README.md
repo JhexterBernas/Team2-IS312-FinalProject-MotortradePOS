@@ -33,4 +33,5 @@ This command is IF you want to delete/refresh the transactrion History ONLY!, DO
 # Credentials of MotortradePOS
 
 Username: CTDN-Jherico
+
 Password: Pandi3014
