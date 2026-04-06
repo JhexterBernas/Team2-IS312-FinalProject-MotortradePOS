@@ -18,7 +18,7 @@ One at a time
 
 2.python -m pip install Pillow
 
-8.Your Computer is settled! after the command successfully prompted you can run the MotortradePOS! Just prompt this
+8.Wait and your Computer is settled! after the command successfully prompted you can run the MotortradePOS! Just prompt this
 
 3.python manage.py runserver
 
