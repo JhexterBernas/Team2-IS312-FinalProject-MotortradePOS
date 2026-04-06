@@ -21,6 +21,7 @@ One at a time
 3.python manage.py runserver
 
 9.Wait for the Deployment Server, It should look like this "http://127.0.0.1:8000/".
+
 10. To run this Hold "CTRL key" then click the server and voilà you successfully run the prototype locally!
 
 # Optional Command
