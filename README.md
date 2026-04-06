@@ -8,7 +8,7 @@
 6. Click the "Open Powershell" and wait.
 7. After opening the powershell the following command must be prompted.
 
-# Command in Powershell
+# Command in Powershell/Terminal
 
 One at a time
 
