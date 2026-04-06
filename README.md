@@ -13,6 +13,7 @@
 One at a time
 
 1.python -m pip install django
+
 2.python -m pip install Pillow
 
 8.Your Computer is settled! after the command successfully prompted you can run the MotortradePOS! Just prompt this
