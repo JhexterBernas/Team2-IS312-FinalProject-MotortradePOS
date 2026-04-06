@@ -3,7 +3,7 @@
 1. Download the Zip File "Team2-IS312-FinalProject-MotortradePOS" above.
 2. After Downloading, Go-to-File Manager in your computer and find the downloaded file.
 3. Right click the file then "Extract All".
-4. Click the Folder(The extracted file) from there you can see Files and Folder.
+4. Click/open the Folder(The extracted file) dont click any files/folder inside it.
 5. From that folder hold "Shift" in your keyboard and right click.
 6. Click the "Open Powershell" and wait.
 7. After opening the powershell the following command must be prompted.
