@@ -45,3 +45,9 @@ Password: Pandi3014
 Username: MNGR-Rochell
 
 Password: MPandi3014
+
+# Published MotortradePOS Online
+
+You can access online this, Just click the link below:
+https://jhexter.pythonanywhere.com/
+
