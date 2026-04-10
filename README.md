@@ -48,6 +48,6 @@ Password: MPandi3014
 
 # Published MotortradePOS Online
 
-You can access online this, Just click the link below:
+You can access online this, Just click the link:
 https://jhexter.pythonanywhere.com/
 
